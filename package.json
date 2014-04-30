@@ -10,13 +10,5 @@
         "email": "samypesse@gmail.com",
         "url": "http://samypesse.fr"
     },
-    "plugin": {
-        "provides": [],
-        "consumes": [
-            "logger",
-            "httpRPC",
-            "workspace",
-            "shells"
-        ]
-    }
+    "main": "./node/main"
 }
