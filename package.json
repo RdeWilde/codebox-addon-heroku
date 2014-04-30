@@ -10,5 +10,10 @@
         "email": "samypesse@gmail.com",
         "url": "http://samypesse.fr"
     },
-    "main": "./node/main"
+    "client": {
+        "main": "client"
+    },
+    "engines": {
+        "codebox": ">=0.7.0"
+    }
 }
