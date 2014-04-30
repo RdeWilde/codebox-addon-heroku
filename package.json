@@ -19,8 +19,5 @@
             "workspace",
             "shells"
         ]
-    },
-    "client": {
-        "main": "client"
     }
 }
